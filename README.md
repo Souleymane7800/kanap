@@ -13,3 +13,4 @@ can then run the server with `node server`.
 The server should run on `localhost` with default port `3000`. If the
 server runs on another port for any reason, this is printed to the
 console when the server starts, e.g. `Listening on port 3001`.
+![kanap](https://user-images.githubusercontent.com/94050676/236418640-b2b91670-f461-4bb8-8981-3caa15e9d731.jpg)
